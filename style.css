@@ -59,16 +59,19 @@ background-color:black;
   .fa-instagram {
     background: #3B5998;
     color: white;
+    padding-bottom: 20px;
   }
   
   .fa-twitter {
     background: #55ACEE;
     color: white;
+    padding-bottom: 20px;
   }
 
   .fa-linkedin {
       background:cadetblue;
       color:white;
+      padding-bottom: 20px;
   }
 
   footer img {
@@ -76,6 +79,7 @@ padding: 25px, 0;
   }
 
 img {
+    margin-top: 25px;
     border-radius: 50%;
     margin-bottom: 25px;
 }
@@ -84,4 +88,14 @@ footer h4 {
 font-weight:lighter;
 font-size:small;
 text-align: center;
+}
+
+footer p {
+    color: #BBF8FF;
+    text-align: center;
+}
+
+footer h6 {
+    padding-bottom: 25px;
+    padding-top: 25px;
 }

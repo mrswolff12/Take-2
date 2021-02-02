@@ -18,7 +18,7 @@ background-color:black;
     background-position: center bottom;
   }
 
-  #hero h6 {
+  #hero h5 {
     padding-top: 200px;
     text-align:right;
     font-weight: lighter;
@@ -33,3 +33,14 @@ background-color:black;
       color: deeppink;
       font-weight: ligher;
   }
+
+.container h4 {
+    text-align: right;
+    color: aqua;
+}
+
+.container p {
+    text-align: right;
+    color: aqua;
+}
+

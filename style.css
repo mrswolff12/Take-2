@@ -91,11 +91,25 @@ text-align: center;
 }
 
 footer p {
-    color: #BBF8FF;
+    color:white;
     text-align: center;
 }
 
 footer h6 {
     padding-bottom: 25px;
     padding-top: 25px;
+}
+
+#about {
+    text-align:center;
+    color:#BBF8FF;
+    font-size: 50px;
+    font-weight:lighter;
+}
+
+#contact {
+    text-align:center;
+    color:#BBF8FF;
+    font-size: 50px;
+    font-weight:lighter; 
 }

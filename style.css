@@ -4,10 +4,11 @@ font-size: 15px;
 letter-spacing: 0.2px;
 word-spacing: 0.4px;
 color: #BBF8FF;
-font-weight: 400;
+font-weight: 300;
 text-decoration: none solid rgb(68, 68, 68);
 font-style: italic;
 text-transform: none;
+background-color:black;
 }
 
 
@@ -17,9 +18,18 @@ text-transform: none;
     background-position: center bottom;
   }
 
-  #hero h5 {
+  #hero h6 {
     padding-top: 200px;
     text-align:right;
-    font-weight: light;
+    font-weight: lighter;
     color: aqua;
+  }
+
+  .row {
+      margin-top: 50px;
+  }
+
+  .row h4 {
+      color: deeppink;
+      font-weight: ligher;
   }
